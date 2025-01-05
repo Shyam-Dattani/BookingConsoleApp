@@ -1,0 +1,7 @@
+Timestamp: 07/11/2024 17:16:36; Error: Response status code does not indicate success: 429 (Too Many Requests).; User Inputs: Destination: 
+Timestamp: 07/11/2024 17:16:42; Error: Response status code does not indicate success: 429 (Too Many Requests).; User Inputs: Destination: manchester
+Timestamp: 08/11/2024 10:02:20; Error: Response status code does not indicate success: 403 (Forbidden).; User Inputs: Destination: Manchester
+Timestamp: 08/11/2024 10:02:34; Error: Response status code does not indicate success: 403 (Forbidden).; User Inputs: Destination: manchester
+Timestamp: 08/11/2024 10:04:36; Error: Response status code does not indicate success: 403 (Forbidden).; User Inputs: Destination: Manchester
+Timestamp: 08/11/2024 10:19:27; Error: The DateTime represented by the string is not supported in calendar System.Globalization.GregorianCalendar.; User Inputs: Destination ID: -2602512, Search Type: city, Arrival Date: 09-11-2024, Departure Date: 31-11-2023, 
+
